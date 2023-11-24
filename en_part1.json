@@ -1,0 +1,737 @@
+{
+    "0": {
+        "origin_input": "Mostly Murder is the 1959 autobiography of forensic pathologist Sir Sydney Smith.",
+        "Multi_Hop": {
+            "declare_input": "In forensic pathologist Sir Sydney Smith's career spanning the United Kingdom, New Zealand, Australia, Egypt, and Sri Lanka, \"Mostly Murder\" is the his 1959 autobiography , recounting the most notorious crimes he solved, and the book has seen numerous British and American editions and has been translated into several languages.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexit": ""
+            },
+            "question_input": "Did Sir Sydney Smith, the forensic pathologist with a career spanning the United Kingdom, New Zealand, Australia, Egypt, and Sri Lanka, write an autobiography in 1959 titled \"Mostly Murder\", recounting the most notorious crimes he solved, and has the book been published in numerous British and American editions and translated into several languages?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Mostly Murder is an autobiography written before World War II by forensic pathologist Sir Sydney Smith.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was \"Mostly Murder\" written before World War II by forensic pathologist Sir Sydney Smith as an autobiography?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Mostly Murder is the 1959 life narrative of forensic pathologist Sir Sydney Smith.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is \"Mostly Murder\" the life narrative of forensic pathologist Sir Sydney Smith, and was it published in 1959?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": "Forensic Pathologist Sir Sydeny Smith's 1959 autobiography is Mostly Murder.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is \"Mostly Murder\" the autobiography of forensic pathologist Sir Sydney Smith, and was it published in 1959?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Mostly Murder is the 1959 autobiography of forensic pathologist Sir Sydney Smith, whose research scope is very broad involving mathematics and astronomy.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is \"Mostly Murder\" the 1959 autobiography of forensic pathologist Sir Sydney Smith, whose research encompasses a wide range of subjects including mathematics and astronomy?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Mostly Murder is the autobiography of forensic pathologist Sir Sydney Smith, published eight years before his death.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was \"Mostly Murder\" the autobiography of forensic pathologist Sir Sydney Smith, and was it published eight years before his death?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "1": {
+        "origin_input": "Paul Elliott CBE FFPH FRCP FMedSci has been professor of epidemiology and public health medicine at Imperial College London since 1995.",
+        "Multi_Hop": {
+            "declare_input": "Paul Elliott, born in April 1954 and was appointed Commander of the Order of the British Empire (CBE) in the 2021 Birthday Honours for his contributions to scientific research in public health, has held the position of professor of epidemiology and public health medicine at Imperial College London since 1995, where he also serves as the director of REACT (Real-time Assessment of Community Transmission) - a community coronavirus testing program - and directs the National Institute for Health Research (NIHR) Health Protection Research Unit for Chemical and Radiation Threats & Hazards.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did Paul Elliott, born in April 1954 and appointed Commander of the Order of the British Empire (CBE) in the 2021 Birthday Honours for his contributions to scientific research in public health, hold the position of professor of epidemiology and public health medicine at Imperial College London since 1995? Additionally, does he also serve as the director of REACT (Real-time Assessment of Community Transmission) and direct the National Institute for Health Research (NIHR) Health Protection Research Unit for Chemical and Radiation Threats & Hazards?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Paul Elliott CBE FFPH FRCP FMedSci has been professor of epidemiology and public health medicine at Imperial College London before 1995.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Paul Elliott CBE FFPH FRCP FMedSci been a professor of epidemiology and public health medicine at Imperial College London before 1995?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Paul Elliott CBE FFPH FRCP FMedSci has been professor of epidemiology and social health medicine at Imperial College London since 1995.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Paul Elliott CBE FFPH FRCP FMedSci been a professor of epidemiology and social health medicine at Imperial College London since 1995?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Phrase_Addition": {
+            "declare_input": "Paul Elliott CBE FFPH FRCP FMedSci has been professor of epidemiology and public health medicine, which is the study of disease with populations and  focuses on the overall health and well-being of communities, at Imperial College London since 1995.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Paul Elliott CBE FFPH FRCP FMedSci held the position of professor of epidemiology and public health medicine, which involves the study of disease in populations and focuses on the overall health and well-being of communities, at Imperial College London since 1995?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": "Professor of epidemiology and public health medicine at Imperial College London since 1995 has been Paul Elliott CBE FFPH FRCP FMedSci.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Paul Elliott CBE FFPH FRCP FMedSci held the position of professor of epidemiology and public health medicine at Imperial College London since 1995?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Paul Elliott CBE FFPH FRCP FMedSci has been professor of epidemiology and public health medicine at Imperial College London since 1995, whose research scope is very broad involving mathematics and astronomy.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Paul Elliott CBE FFPH FRCP FMedSci, who has been a professor of epidemiology and public health medicine at Imperial College London since 1995, conducted research with a broad scope, including mathematics and astronomy?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Paul Elliott CBE FFPH FRCP FMedSci has been professor of epidemiology and public health medicine at Imperial College London since 7 years before millennium.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Paul Elliott CBE FFPH FRCP FMedSci held the position of professor of epidemiology and public health medicine at Imperial College London since seven years before the millennium?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "2": {
+        "origin_input": "D.Raja Reddy is an Indian Neurosurgeon, born on 18 November 1938 at Jangampally Village of Nizamabad district.",
+        "Multi_Hop": {
+            "declare_input": "D.Raja Reddy, who is a fellow of the Royal College of Surgeons (F.R.C.S.) and the Royal Australian College of Surgeons (F.R.A.C.S.) and co-authored the book \"Endemic Skeletal Fluorosis\", born on 18 November 1938 at Jangampally Village of Nizamabad district, is an Indian Neurosurgeon.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is D. Raja Reddy, an Indian Neurosurgeon born on 18 November 1938 in Jangampally Village of Nizamabad district, a fellow of the Royal College of Surgeons (F.R.C.S.) and the Royal Australian College of Surgeons (F.R.A.C.S.), and a co-author of the book 'Endemic Skeletal Fluorosis'?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "D.Raja Reddy is an Indian Neurosurgeon, born on 18 November 10 years before the establishment of People's Republic of China at Jangampally Village of Nizamabad district.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is D. Raja Reddy an Indian Neurosurgeon who was born on 18 November, a decade before the establishment of the People's Republic of China, in Jangampally Village of Nizamabad district?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "D.Raja Reddy is an Indian Neurological Surgeon, born on 18 November 1938 at Jangampally Village of Nizamabad district.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is D. Raja Reddy an Indian Neurological Surgeon who was born on 18 November 1938 in Jangampally Village of Nizamabad district?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Raja Reddy is the most renowned Indian Neurosurgeon, born on 18 November 1938 at Jangampally Village, a famous location in Nizamabad district.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is Raja Reddy the most renowned Indian Neurosurgeon, born on 18 November 1938 in Jangampally Village, a famous location in Nizamabad district?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Raja Reddy is an Indian Neurosurgeon, born on the last day of November 1938 at Jangampally Village of Nizamabad district.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is Raja Reddy an Indian Neurosurgeon who was born on the last day of November 1938 in Jangampally Village of Nizamabad district?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "3": {
+        "origin_input": "Stephen Evans is a British pharmacoepidemiologist and medical statistician, as of 2020 professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine(LSHTM).",
+        "Multi_Hop": {
+            "declare_input": "British pharmacoepidemiologist and medical statistician Stephen Evans, who earned his bachelor's degree in physics and chemistry and a master's in medical statistics from LSHTM, was a professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine as of 2020, and he worked at The London Hospital and Medical College for 25 years in statistics and computing.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Stephen Evans, a British pharmacoepidemiologist and medical statistician who earned his bachelor's degree in physics and chemistry and a master's in medical statistics from LSHTM, a professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine as of 2020, and did he work at The London Hospital and Medical College for 25 years in statistics and computing?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Stephen Evans is a British pharmacoepidemiologist and medical statistician,  became professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine(LSHTM) in 1940.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did Stephen Evans, a British pharmacoepidemiologist and medical statistician, become a professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine (LSHTM) in 1940?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Stephen Evans is a British expert in the study of the effects and utilization of pharmaceuticals and a specialist in medical data analysis, as of 2020 professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine(LSHTM).",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is Stephen Evans a British expert in the study of the effects and utilization of pharmaceuticals, specializing in medical data analysis, and was he a professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine (LSHTM) as of 2020?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Phrase_Addition": {
+            "declare_input": "Stephen Evans is a British pharmacoepidemiologist and medical statistician, as of 2020 professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine(LSHTM), and he worked in statistics and computing at The London Hospital and Medical College for 25 years, leaving there in 1995 as Professor of Medical Statistics.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Stephen Evans a British pharmacoepidemiologist and medical statistician, who as of 2020 held the position of professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine (LSHTM), and did he work in statistics and computing at The London Hospital and Medical College for 25 years, leaving in 1995 as a Professor of Medical Statistics?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": " As of 2020, the professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine(LSHTM) is Stephen Evans, who is a British pharmacoepidemiologist and medical statistician.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is Stephen Evans, a British pharmacoepidemiologist and medical statistician, the professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine (LSHTM) as of 2020?s",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Stephen Evans is the most famous British pharmacoepidemiologist and medical statistician, as of 2020 professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine(LSHTM).",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is Stephen Evans the most renowned British pharmacoepidemiologist and medical statistician, holding the position of professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine (LSHTM) as of 2020?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "4": {
+        "origin_input": "Sir John Archibald Browne Gray, FRS was a British physiologist who served as secretary of the Medical Research Council from 1968 to 1977.",
+        "Multi_Hop": {
+            "declare_input": "Sir John Archibald Browne Gray, FRS, the son of eminent dermatologist Sir Archibald Gray KCVO, was born in London, attended Cheltenham College, pursued a medical education at Clare College, Cambridge, and University College Hospital, conducted research on the neurophysiology of the sensory system in fish at the Marine Biological Association Laboratories in Plymouth, and ultimately became President of the Freshwater Biological Association from 1983 to 1987, while serving as secretary of the Medical Research Council from 1968 to 1977.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Sir John Archibald Browne Gray, FRS, born in London, the son of eminent dermatologist Sir Archibald Gray KCVO, who attended Cheltenham College, pursued a medical education at Clare College, Cambridge, and University College Hospital, conducted research on the neurophysiology of the sensory system in fish at the Marine Biological Association Laboratories in Plymouth, and ultimately served as President of the Freshwater Biological Association from 1983 to 1987, while also holding the position of secretary of the Medical Research Council from 1968 to 1977?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Sir John Archibald Browne Gray, FRS was a British physiologist who served as secretary of the Medical Research Council in the early twentieth  century.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Sir John Archibald Browne Gray, FRS, a British physiologist who held the position of secretary of the Medical Research Council in the early twentieth century?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Sir John Archibald Browne Gray, FRS was a British biological scientist who served as secretary of the Medical Research Council from 1968 to 1977.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did Sir John Archibald Browne Gray, FRS, serve as a British biological scientist who held the position of secretary of the Medical Research Council from 1968 to 1977?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Phrase_Addition": {
+            "declare_input": "Sir John Archibald Browne Gray, FRS was a British physiologist who served as secretary of the Medical Research Council from 1968 to 1977, and he married Vera Mares who died in 2010.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Sir John Archibald Browne Gray, FRS, a British physiologist who served as secretary of the Medical Research Council from 1968 to 1977, and did he marry Vera Mares, who passed away in 2010?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Sir John Archibald Browne Gray, FRS is the most famous British physiologist who currently serves as secretary of the Medical Research Council.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is Sir John Archibald Browne Gray, FRS, the most renowned British physiologist who currently holds the position of secretary of the Medical Research Council?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Sir John Archibald Browne Gray, FRS was a British physiologist who served as secretary of the Medical Research Council from 1968 and last for 9 years.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Sir John Archibald Browne Gray, FRS was a British physiologist who served as secretary of the Medical Research Council from 1967 to 1977.What impact did Sir John Archibald Browne Gray have on the field of physiology during his tenure as secretary of the Medical Research Council?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "5": {
+        "origin_input": "The National Institute for Pharmaceutical Research and Development (NIPRD) is a Nigerian institution charged with developing drugs, biological products, and pharmaceutical raw materials established in 1987.",
+        "Multi_Hop": {
+            "declare_input": "The National Institute for Pharmaceutical Research and Development (NIPRD), originally under the Federal Ministry of Science and Technology and later moved to the Federal Ministry of Health, is a Nigerian institution established in 1987, whose primary mandate includes the development of drugs, biological products, pharmaceutical raw materials, quality-assurance testing, research for locally manufactured medicines, and the formulation of guidelines for their production.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is the National Institute for Pharmaceutical Research and Development (NIPRD) a Nigerian institution established in 1987, originally under the Federal Ministry of Science and Technology, and later moved to the Federal Ministry of Health? Is its primary mandate the development of drugs, biological products, pharmaceutical raw materials, quality-assurance testing, research for locally manufactured medicines, and the formulation of guidelines for their production?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "The National Institute for Pharmaceutical Research and Development (NIPRD) is a Nigerian institution charged with developing drugs, biological products, and pharmaceutical raw materials established before 1987.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is the National Institute for Pharmaceutical Research and Development (NIPRD) a Nigerian institution established in 1987, with the primary responsibility of developing drugs, biological products, and pharmaceutical raw materials?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "The National Institute for Pharmaceutical Research and Development (NIPRD) is a Nigerian Institute Center charged with developing drugs, biological products, and pharmaceutical raw materials established in 1987.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is the National Institute for Pharmaceutical Research and Development (NIPRD) a Nigerian center established in 1987, with a primary focus on the development of drugs, biological products, and pharmaceutical raw materials?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": "The Nigerian institution charged with developing drugs, biological products, and pharmaceutical raw materials established in 1987 is The National Institute for Pharmaceutical Research and Development (NIPRD).",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is The National Institute for Pharmaceutical Research and Development (NIPRD) the Nigerian institution charged with developing drugs, biological products, and pharmaceutical raw materials, and was it established in 1987?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "The National Institute for Pharmaceutical Research and Development (NIPRD) is a global institution charged with developing drugs, biological products, and pharmaceutical raw materials established in 1987.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is The National Institute for Pharmaceutical Research and Development (NIPRD) a global institution with the responsibility of developing drugs, biological products, and pharmaceutical raw materials, and was it established in 1987?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "6": {
+        "origin_input": "The Command and Control Research Program was an active DoD Research Program from 1994 to 2015.",
+        "Multi_Hop": {
+            "declare_input": "The Command and Control Research Program (CCRP), which was dedicated to advancing the state of command and control (C2) practices, fostering a deep understanding of Information Age's national security implications, was active within the DoD from 1994 to 2015 under the Office of the Assistant Secretary of Defense (NII), which was an appointed position that provided management and oversight of all DoD information technology, including national security systems.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the Command and Control Research Program (CCRP) active within the DoD from 1994 to 2015, focusing on advancing the state of command and control (C2) practices and understanding the national security implications of the Information Age, all under the Office of the Assistant Secretary of Defense (NII), which oversaw all DoD information technology, including national security systems?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "The Command and Control Research Program was an active DoD Research Program before 1994.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the Command and Control Research Program an active DoD Research Program before 1994?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "The Command and Control Research Program was a functioning DoD Research Program from 1994 to 2015.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the Command and Control Research Program a functioning DoD Research Program from 1994 to 2015?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Phrase_Addition": {
+            "declare_input": "The Command and Control Research Program, also known as CCRP, was an active DoD Research Program from 1994 to 2015, and it provides \"Out of the Box\" thinking and explores ways to help DoD take full advantage of Information Age opportunities and served as a bridge between the operational and technical communities and enhanced the body of knowledge and research infrastructure needed for future progress.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the Command and Control Research Program, also known as CCRP, an active DoD Research Program from 1994 to 2015, providing 'Out of the Box' thinking and exploring ways to help DoD take full advantage of Information Age opportunities? Did it also serve as a bridge between the operational and technical communities while enhancing the body of knowledge and research infrastructure needed for future progress?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": "The active DoD Research Program from 1994 to 2015 was The Command and Control Research Program.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was The Command and Control Research Program the active DoD Research Program from 1994 to 2015?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "The Command and Control Research Program was an active DoD Research Program from 1994 to 2015 that manages everything in national secruity.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the Command and Control Research Program an active DoD Research Program from 1994 to 2015, responsible for managing various aspects related to national security?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "The Command and Control Research Program was an active DoD Research Program from 1994 and last for 11 years.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the Command and Control Research Program an active DoD Research Program from 1994 and did it continue for 11 years?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    }
+}

@@ -1,0 +1,632 @@
+{
+    "7": {
+        "origin_input": "Alfred Lingard was a British medical pathologist who worked on veterinary diseases in India, serving as an Imperial Bacteriologist from 1890 to 1907.",
+        "Multi_Hop": {
+            "declare_input": "The founding director of the Imperial Bacteriological Laboratory was Alfred Lingard, a British medical pathologist who worked on veterinary diseases in India, who served as an Imperial Bacteriologist from 1890 to 1907.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the founding director of the Imperial Bacteriological Laboratory Alfred Lingard, a British medical pathologist who worked on veterinary diseases in India, who served as an Imperial Bacteriologist from 1890 to 1907?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Alfred Lingard was a British medical pathologist who worked on veterinary diseases in India, serving as an Imperial Bacteriologist after the 20th century.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Alfred Lingard a British medical pathologist who worked on veterinary diseases in India, serving as an Imperial Bacteriologist after the 20th century?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Alfred Lingard was a British medical pathologist who worked on veterinary diseases in India, serving as a Imperial doctor from 1890 to 1907.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Alfred Lingard a British medical pathologist who worked on veterinary diseases in India, serving as a Imperial doctor from 1890 to 1907?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Reverse_Curves": {
+            "declare_input": "In India, there was a British medical pathologist who worked on veterinary diseases named Alfred Lingard, serving as an Imperial Bacteriologist from 1890 to 1907.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "In India, was there a British medical pathologist who worked on veterinary diseases named Alfred Lingard, serving as an Imperial Bacteriologist from 1890 to 1907?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Alfred Lingard was the most famous British medical pathologist who worked on veterinary diseases in India, serving as an Imperial Bacteriologist from 1890 to 1907?.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Alfred Lingard the most famous British medical pathologist who worked on veterinary diseases in India, serving as an Imperial Bacteriologist from 1890 to 1907?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Alfred Lingard was a British medical pathologist who worked on veterinary diseases in India, serving as an Imperial Bacteriologist for 20 years.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Alfred Lingard a British medical pathologist who worked on veterinary diseases in India, serving as an Imperial Bacteriologist for 20 years.",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "8": {
+        "origin_input": "Sir Roderick Norman McIver MacSween was a Scottish pathologist, professor of pathology at University of Glasgow, 1984 to 1999.",
+        "Multi_Hop": {
+            "declare_input": "The past President of the Royal College of Pathologists Sir Roderick Norman McIver MacSween was a Scottish pathologist, professor of pathology at University of Glasgow, 1984 to 1999.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the past President of the Royal College of Pathologists Sir Roderick Norman McIver MacSween a Scottish pathologist, professor of pathology at University of Glasgow, 1984 to 1999?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Sir Roderick Norman McIver MacSween was a Scottish pathologist, professor of pathology at University of Glasgow before 1984.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Sir Roderick Norman McIver MacSween a Scottish pathologist, professor of pathology at University of Glasgow before 1984?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Sir Roderick Norman McIver MacSween was a American pathologist, professor of pathology at University of Glasgow, 1984 to 1999.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Sir Roderick Norman McIver MacSween a American pathologist, professor of pathology at University of Glasgow, 1984 to 1999?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Reverse_Curves": {
+            "declare_input": "A Scottish pathologist named Sir Roderick Norman McIver MacSween was a professor of pathology at University of Glasgow, 1984 to 1999.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was a Scottish pathologist named Sir Roderick Norman McIver MacSween a professor of pathology at University of Glasgow, 1984 to 1999?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Duke Roderick Norman McIver MacSween was a Scottish pathologist, professor of pathology at University of Glasgow, 1984 to 1999.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Duke Roderick Norman McIver MacSween a Scottish pathologist, professor of pathology at University of Glasgow, 1984 to 1999?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Sir Roderick Norman McIver MacSween was a Scottish pathologist, professor of pathology at University of Glasgow for 10 years.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Sir Roderick Norman McIver MacSween a Scottish pathologist, professor of pathology at University of Glasgow for 10 years?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "9": {
+        "origin_input": "Stephen Roodhouse Gloyne was an English pathologist who worked at the London Chest Hospital from 1911 to 1948.",
+        "Multi_Hop": {
+            "declare_input": "Stephen Roodhouse Gloyne was an English pathologist who worked at the London Chest Hospital where he almost single-handedly built up the pathology department from 1911 to 1948.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Stephen Roodhouse Gloyne an English pathologist who worked at the London Chest Hospital where he almost single-handedly built up the pathology department from 1911 to 1948?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Stephen Roodhouse Gloyne was an English pathologist who worked at the London Chest Hospital from 1922 to 1948.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Stephen Roodhouse Gloyne an English pathologist who worked at the London Chest Hospital from 1922 to 1948?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Stephen Roodhouse Gloyne was an English pathologist who worked at the London Center Hospital from 1911 to 1948.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Stephen Roodhouse Gloyne an English pathologist who worked at the London Center Hospital from 1922 to 1948?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Reverse_Curves": {
+            "declare_input": "An English pathologist, Stephen Roodhouse Gloyne, worked at the London Chest Hospital from 1911 to 1948.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did an English pathologist, Stephen Roodhouse Gloyne, work at the London Chest Hospital from 1911 to 1948?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Stephen Roodhouse Gloyne was an English pathologist who worked at the biggest hospital in London, London Chest Hospital from 1911 to 1948.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Stephen Roodhouse Gloyne an English pathologist who worked at the biggest hospital in London, London Chest Hospital from 1911 to 1948.",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Stephen Roodhouse Gloyne was an English pathologist who worked at the London Chest Hospital for 33 years.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was Stephen Roodhouse Gloyne an English pathologist who worked at the London Chest Hospital for 33 years?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "10": {
+        "origin_input": "Bernard Croisile, neurologist and neuropsychologist, has been the chair of the neuropsychology department at the Neurological Hospital of Lyon since 1992.",
+        "Multi_Hop": {
+            "declare_input": "Bernard Croisile, neurologist and neuropsychologist, has been the chair of the neuropsychology department at the Neurological Hospital of Lyon where he received his M.D. and certification since 1992.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Bernard Croisile, neurologist and neuropsychologist, been the chair of the neuropsychology department at the Neurological Hospital of Lyon where he received his M.D. and certification since 1992?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "Bernard Croisile, neurologist and neuropsychologist, has been the chair of the neuropsychology department at the Neurological Hospital of Lyon since 2000.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Bernard Croisile, neurologist and neuropsychologist, been the chair of the neuropsychology department at the Neurological Hospital of Lyon where he received his M.D. and certification since 2000?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "Bernard Croisile, neurologist and neuropsychologist, has been the president of the neuropsychology department at the Neurological Hospital of Lyon since 1992.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Bernard Croisile, neurologist and neuropsychologist, been the president of the neuropsychology department at the Neurological Hospital of Lyon since 1992?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": "The chair of the neuropsychology department at the Neurological Hospital of Lyon since 1992 was a neurologist and neuropsychologist named Bernard Croisile.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Was the chair of the neuropsychology department at the Neurological Hospital of Lyon since 1992 a neurologist and neuropsychologist named Bernard Croisile?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "Bernard Croisile,the most famous neurologist and neuropsychologist, has been the chair of the neuropsychology department at the Neurological Hospital of Lyon since 1992.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Bernard Croisile,the most famous neurologist and neuropsychologist, been the chair of the neuropsychology department at the Neurological Hospital of Lyon since 1992?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "Bernard Croisile, neurologist and neuropsychologist, has been the chair of the neuropsychology department at the Neurological Hospital of Lyon for more than 30 years.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Has Bernard Croisile, neurologist and neuropsychologist, been the chair of the neuropsychology department at the Neurological Hospital of Lyon for more than 30 years?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "11": {
+        "origin_input": "The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur came into existence on 07th December 2019.",
+        "Multi_Hop": {
+            "declare_input": "The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur which replaced the erstwhile Desert Medicine Research Centre came into existence on 07th December 2019.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur which replaced the erstwhile Desert Medicine Research Centre come into existence on 07th December 2019?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur came into existence on 17th December 2019.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur come into existence on 17th December 2019?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur came into presence on 07th December 2019.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur come into presence on 07th December 2019?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": "On 07th December 2019, Jodhpur, The National Institute for Implementation Research in Non Communicable Diseases came into existence.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did on 07th December 2019, Jodhpur, The National Institute for Implementation Research in Non Communicable Diseases come into existence?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "The National Institute for Implementation Research in All Diseases, Jodhpur came into existence on 07th December 2019.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did The National Institute for Implementation Research in All Diseases, Jodhpur come into existence on 07th December 2019?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur came into existence on late December 2019.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Did The National Institute for Implementation Research in Non Communicable Diseases, Jodhpur come into existence on late December 2019?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    },
+    "13": {
+        "origin_input": "The Bradford Burns Unit is a burns research facility set up at University of Bradford following the Bradford fire disaster on 11 May 1985.",
+        "Multi_Hop": {
+            "declare_input": "The Bradford Burns Unit is a burns research facility set up at University of Bradford on 11 May 1985 following the Bradford fire disaster which killed 56 people and injured more than 250.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is The Bradford Burns Unit a burns research facility set up at University of Bradford on 11 May 1985 following the Bradford fire disaster which killed 56 people and injured more than 250?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Date_Modification": {
+            "declare_input": "The Bradford Burns Unit is a burns research facility set up at University of Bradford following the Bradford fire disaster on 23 May 1985.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is The Bradford Burns Unit a burns research facility set up at University of Bradford following the Bradford fire disaster on 23 May 1985?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "Word_Replacement": {
+            "declare_input": "The Bradford Burns Unit is a fire-related research facility set up at University of Bradford following the Bradford fire disaster on 11 May 1985.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is The Bradford Burns Unit a fire-related research facility set up at University of Bradford following the Bradford fire disaster on 11 May 1985?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Reverse_Curves": {
+            "declare_input": "Following the Bradford fire disaster, the burns research facility The Bradford Burns Unit, set up at University of Bradford on 11 May 1985.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Following the Bradford fire disaster, was the burns research facility, The Bradford Burns Unit, set up at the University of Bradford on 11 May 1985?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "true"
+        },
+        "Fact_Exaggeration": {
+            "declare_input": "The Bradford Burns Unit is the biggest burns research facility in England set up at University of Bradford following the Bradford fire disaster on 11 May 1985.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is The Bradford Burns Unit the biggest burns research facility in England set up at University of Bradford following the Bradford fire disaster on 11 May 1985?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        },
+        "NumberReasoning": {
+            "declare_input": "The Bradford Burns Unit is a burns research facility set up at University of Bradford following the Bradford fire disaster in 21th century.",
+            "declare_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "question_input": "Is The Bradford Burns Unit a burns research facility set up at University of Bradford following the Bradford fire disaster in 21th century?",
+            "question_ans": {
+                "GPT3.5": "",
+                "New Bing": "",
+                "YouChat": "",
+                "Perplexity": ""
+            },
+            "label": "false"
+        }
+    }
+}
